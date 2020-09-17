@@ -1,2 +1,2 @@
-# Arduni KnightRider's Light
+# Arduni Knight Rider's Light
 ![](DancingLIght.png)
